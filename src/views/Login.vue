@@ -1,9 +1,13 @@
 <template>
-  <div>This is Home page</div>
+  <div>This is Login</div>
 </template>
 
 <script>
 export default {
-  components: {},
-};
+
+}
 </script>
+
+<style>
+
+</style>
